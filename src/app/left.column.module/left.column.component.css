@@ -1,0 +1,13 @@
+.left_column {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.content {
+    flex: 3;
+    padding-left: 15px;
+}
+
+.container_link {
+    flex: 1;
+}

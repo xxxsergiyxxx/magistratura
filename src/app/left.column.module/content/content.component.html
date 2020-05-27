@@ -1,0 +1,11 @@
+<div class="teams_container">
+    <div class="team" 
+        *ngFor="let team of teams; let i=index"
+        border
+         [mdTooltip]="tooltip" 
+         [mdTooltipPosition]="position"
+         (mouseenter)="getInfo(i)">
+        <img [src]="team.crestURI">
+        <a [routerLink]="['/team',team.id]">{{team.teamName}}</a>
+    </div>
+</div>

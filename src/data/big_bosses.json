@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "name": "tanos",
+        "story": "kill parents",
+        "image": "/src/data/images/bosses/joker.png",
+        "health": "7000"
+    },
+    {
+        "id": "2",
+        "name": "darkside",
+        "story": "kill parents",
+        "image": "/src/data/images/bosses/superman.png",
+        "health": "8000"
+    },
+    {
+        "id": "3",
+        "name": "galactus",
+        "story": "kill parents",
+        "image": "/src/data/images/bosses/ironman.png",
+        "health": "7000"
+    },
+    {
+        "id": "4",
+        "name": "joker",
+        "story": "Favorite batman's enemy ",
+        "image": "/src/data/images/bosses/joker.png",
+        "health": "6000"
+    }
+]

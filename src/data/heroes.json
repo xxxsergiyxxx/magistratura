@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "name": "Batman",
+        "story": "Batman's secret identity is Bruce Wayne, an American billionaire, playboy, philanthropist, and owner of Wayne Enterprises. After witnessing the murder of his parents Thomas Wayne and Martha Wayne as a child, he swore vengeance against criminals, an oath tempered by a sense of justice. Wayne trains himself physically and intellectually and crafts a bat-inspired persona to fight crime.[7] Batman operates in the fictional Gotham City, with assistance from various supporting characters, including his butler Alfred, police commissioner Gordon, and vigilante allies such as Robin. Unlike most superheroes, Batman does not possess any superpowers; rather, he relies on his genius intellect, physical prowess, martial arts abilities, detective skills, science and technology, vast wealth, intimidation, and indomitable will. A large assortment of villains make up Batman's rogues gallery, including his archenemy, the Joker.",
+        "image": "/src/data/images/heroes/batman.png",
+        "health": "2000"
+    },
+    {
+        "id": "2",
+        "name": "Superman",
+        "story": "Superman resides and operates in the fictional American city of Metropolis. As Clark Kent, he is a journalist for the Daily Planet, a Metropolis newspaper. Superman's love interest is generally Lois Lane, and his archenemy is supervillain Lex Luthor. He is typically a member of the Justice League and close ally of Batman and Wonder Woman. Like other characters in the DC Universe, several alternate versions of Superman have been depicted over the years.",
+        "image": "/src/data/images/heroes/superman.png",
+        "health": "2000"
+    },
+    {
+        "id": "3",
+        "name": "Iron man",
+        "story": "kill parents",
+        "image": "/src/data/images/heroes/ironman.png",
+        "health": "2000"
+    },
+    {
+        "id": "4",
+        "name": "Hulk",
+        "story": "Get super power after gamma analysis",
+        "image": "/src/data/images/heroes/hulk.png",
+        "health": "2000"
+    },
+    {
+        "id": "5",
+        "name": "Deadpool",
+        "story": "Deadpool (real name Wade Winston Wilson) is a fictional antihero appearing in American comic books published by Marvel Comics. Created by artist/writer Rob Liefeld and writer Fabian Nicieza, the character first appeared in The New Mutants #98 (cover-dated February 1991). Initially Deadpool was depicted as a supervillain when he made his first appearance in The New Mutants and later in issues of X-Force, but later evolved into his more recognizable antiheroic persona. Deadpool is a disfigured and mentally unstable mercenary with the superhuman ability of an accelerated healing factor and physical prowess. He is known as the 'Merc with a Mouth' because of his talkative nature and tendency to break the fourth wall, which is used by writers for humorous effect and running gags.",
+        "image": "/src/data/images/heroes/dpool.png",
+        "health": "2000"
+    }
+]

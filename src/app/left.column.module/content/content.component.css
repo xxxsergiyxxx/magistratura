@@ -1,0 +1,20 @@
+.teams_container {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: flex-end;
+    margin-left: 20px;
+}
+
+.team {
+    width: 200px;
+    padding: 5%;
+    text-align: center;
+    margin: 5px;
+    cursor: pointer;
+}
+/*.team :hover {
+    box-shadow: 0 0 5px rgba(0,0,0,0.8); 
+}*/
+/*.teams_container :hover {
+    box-shadow: 0 0 5px rgba(0,0,0,0.8); 
+}*/

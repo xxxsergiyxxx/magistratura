@@ -1,0 +1,53 @@
+[
+  {
+    "id":"1",
+    "heroid": "1",
+    "skill": {
+      "damage":"200",
+      "name": "batarang",
+      "image": "/src/data/images/skills/batman_1.gif"
+    }
+  },
+  {
+    "id":"2",
+    "heroid": "1",
+    "skill": {
+      "damage":"1000",
+      "name": "vertuha",
+      "image": "/src/data/images/skills/batman_2.gif"
+    }
+  },
+  {
+    "id":"3",
+    "heroid": "3",
+    "skill": {
+      "damage":"300",
+      "name": "laser"
+    }
+  },
+  {
+    "id":"4",
+    "heroid": "2",
+    "skill": {
+      "damage":"200",
+      "name": "lowkick"
+    }
+  },
+  {
+    "id":"5",
+    "heroid": "2",
+    "skill": {
+      "damage":"200",
+      "name": "batarang"
+    }
+  },
+  {
+    "id":"6",
+    "heroid": "5",
+    "skill": {
+      "damage":"600",
+      "name": "dance",
+      "image": "/src/data/images/skills/dpool_1.gif"
+    }
+  }
+]
